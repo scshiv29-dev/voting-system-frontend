@@ -1,0 +1,110 @@
+Date : 2022-02-04 05:20:54
+Directory : e:\PROJECT\Project\vs\votingsystem
+Total : 59 files,  3704 codes, 85 comments, 1389 blanks, all 5178 lines
+
+Languages
++-------------+------------+------------+------------+------------+------------+
+| language    | files      | code       | comment    | blank      | total      |
++-------------+------------+------------+------------+------------+------------+
+| Log         |          1 |      8,152 |          0 |      1,218 |      9,370 |
+| JavaScript  |         38 |      1,298 |         11 |         85 |      1,394 |
+| Solidity    |          2 |        157 |         74 |         36 |        267 |
+| Markdown    |          5 |         71 |          0 |         30 |        101 |
+| Django txt  |          3 |         58 |          0 |          7 |         65 |
+| Django HTML |          1 |         46 |          0 |          4 |         50 |
+| CSS         |          2 |         45 |          0 |          8 |         53 |
+| XML         |          1 |          1 |          0 |          0 |          1 |
+| JSON        |          6 |     -6,124 |          0 |          1 |     -6,123 |
++-------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                        | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                           |         59 |      3,704 |         85 |      1,389 |      5,178 |
+| ..                                                                                          |         11 |     -6,747 |        -11 |        -56 |     -6,814 |
+| ..\votingrework                                                                             |         11 |     -6,747 |        -11 |        -56 |     -6,814 |
+| ..\votingrework\controllers                                                                 |          3 |       -150 |         -5 |        -22 |       -177 |
+| ..\votingrework\models                                                                      |          2 |        -98 |          0 |         -7 |       -105 |
+| ..\votingrework\routes                                                                      |          3 |        -69 |          0 |        -18 |        -87 |
+| .VSCodeCounter                                                                              |          7 |        115 |          0 |         32 |        147 |
+| .VSCodeCounter\2022-02-03_21-50-42                                                          |          7 |        115 |          0 |         32 |        147 |
+| contracts                                                                                   |          1 |         84 |         36 |         18 |        138 |
+| public                                                                                      |          3 |         74 |          0 |          6 |         80 |
+| scripts                                                                                     |          1 |         19 |          0 |          6 |         25 |
+| src                                                                                         |         30 |      1,911 |         52 |        146 |      2,109 |
+| src\auth                                                                                    |          1 |         58 |          0 |          7 |         65 |
+| src\auth\helper                                                                             |          1 |         58 |          0 |          7 |         65 |
+| src\components                                                                              |         16 |      1,457 |          4 |         92 |      1,553 |
+| src\components\dashboards                                                                   |          4 |        410 |          1 |         27 |        438 |
+| src\components\dashboards\helper                                                            |          2 |        108 |          1 |          8 |        117 |
+| src\contracts                                                                               |          1 |         73 |         38 |         18 |        129 |
+| src\firebase                                                                                |          1 |         16 |          6 |          5 |         27 |
+| test                                                                                        |          1 |         13 |          1 |          6 |         20 |
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------+-------------+------------+------------+------------+------------+
+| filename                                                                                    | language    | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------+-------------+------------+------------+------------+------------+
+| e:\PROJECT\Project\vs\votingrework\app.js                                                   | JavaScript  |        -33 |         -6 |         -7 |        -46 |
+| e:\PROJECT\Project\vs\votingrework\controllers\auth.js                                      | JavaScript  |        -77 |         -5 |        -14 |        -96 |
+| e:\PROJECT\Project\vs\votingrework\controllers\user.js                                      | JavaScript  |        -34 |          0 |         -4 |        -38 |
+| e:\PROJECT\Project\vs\votingrework\controllers\verification.js                              | JavaScript  |        -39 |          0 |         -4 |        -43 |
+| e:\PROJECT\Project\vs\votingrework\models\user.js                                           | JavaScript  |        -65 |          0 |         -6 |        -71 |
+| e:\PROJECT\Project\vs\votingrework\models\verification.js                                   | JavaScript  |        -33 |          0 |         -1 |        -34 |
+| e:\PROJECT\Project\vs\votingrework\package-lock.json                                        | JSON        |     -6,365 |          0 |         -1 |     -6,366 |
+| e:\PROJECT\Project\vs\votingrework\package.json                                             | JSON        |        -32 |          0 |         -1 |        -33 |
+| e:\PROJECT\Project\vs\votingrework\routes\auth.js                                           | JavaScript  |        -23 |          0 |         -5 |        -28 |
+| e:\PROJECT\Project\vs\votingrework\routes\user.js                                           | JavaScript  |        -13 |          0 |         -7 |        -20 |
+| e:\PROJECT\Project\vs\votingrework\routes\verification.js                                   | JavaScript  |        -33 |          0 |         -6 |        -39 |
+| e:\PROJECT\Project\vs\votingsystem\.VSCodeCounter\2022-02-03_21-50-42\details.md            | Markdown    |         20 |          0 |          6 |         26 |
+| e:\PROJECT\Project\vs\votingsystem\.VSCodeCounter\2022-02-03_21-50-42\diff-details.md       | Markdown    |          9 |          0 |          6 |         15 |
+| e:\PROJECT\Project\vs\votingsystem\.VSCodeCounter\2022-02-03_21-50-42\diff.md               | Markdown    |         12 |          0 |          7 |         19 |
+| e:\PROJECT\Project\vs\votingsystem\.VSCodeCounter\2022-02-03_21-50-42\diff.txt              | Django txt  |         19 |          0 |          3 |         22 |
+| e:\PROJECT\Project\vs\votingsystem\.VSCodeCounter\2022-02-03_21-50-42\results.json          | JSON        |          1 |          0 |          0 |          1 |
+| e:\PROJECT\Project\vs\votingsystem\.VSCodeCounter\2022-02-03_21-50-42\results.md            | Markdown    |         18 |          0 |          7 |         25 |
+| e:\PROJECT\Project\vs\votingsystem\.VSCodeCounter\2022-02-03_21-50-42\results.txt           | Django txt  |         36 |          0 |          3 |         39 |
+| e:\PROJECT\Project\vs\votingsystem\README.md                                                | Markdown    |         12 |          0 |          4 |         16 |
+| e:\PROJECT\Project\vs\votingsystem\config.js                                                | JavaScript  |          1 |          0 |          3 |          4 |
+| e:\PROJECT\Project\vs\votingsystem\contracts\Ballot.sol                                     | Solidity    |         84 |         36 |         18 |        138 |
+| e:\PROJECT\Project\vs\votingsystem\hardhat.config.js                                        | JavaScript  |         10 |          7 |          5 |         22 |
+| e:\PROJECT\Project\vs\votingsystem\package.json                                             | JSON        |         60 |          0 |          1 |         61 |
+| e:\PROJECT\Project\vs\votingsystem\public\index.html                                        | Django HTML |         46 |          0 |          4 |         50 |
+| e:\PROJECT\Project\vs\votingsystem\public\manifest.json                                     | JSON        |         25 |          0 |          1 |         26 |
+| e:\PROJECT\Project\vs\votingsystem\public\robots.txt                                        | Django txt  |          3 |          0 |          1 |          4 |
+| e:\PROJECT\Project\vs\votingsystem\scripts\deploy.js                                        | JavaScript  |         19 |          0 |          6 |         25 |
+| e:\PROJECT\Project\vs\votingsystem\src\App.css                                              | CSS         |         33 |          0 |          6 |         39 |
+| e:\PROJECT\Project\vs\votingsystem\src\App.js                                               | JavaScript  |         12 |          0 |          4 |         16 |
+| e:\PROJECT\Project\vs\votingsystem\src\App.test.js                                          | JavaScript  |          7 |          0 |          2 |          9 |
+| e:\PROJECT\Project\vs\votingsystem\src\Ballot.json                                          | JSON        |        187 |          0 |          1 |        188 |
+| e:\PROJECT\Project\vs\votingsystem\src\auth\helper\index.js                                 | JavaScript  |         58 |          0 |          7 |         65 |
+| e:\PROJECT\Project\vs\votingsystem\src\backend.js                                           | JavaScript  |          1 |          0 |          1 |          2 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\AdminVerifies.js                          | JavaScript  |         51 |          0 |          2 |         53 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\Home.js                                   | JavaScript  |         10 |          0 |          2 |         12 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\Login.js                                  | JavaScript  |         85 |          3 |          6 |         94 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\Mediacard.js                              | JavaScript  |         25 |          0 |          3 |         28 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\Menu.js                                   | JavaScript  |         83 |          0 |          5 |         88 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\Navbar.js                                 | JavaScript  |         44 |          0 |          4 |         48 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\Signin.js                                 | JavaScript  |        159 |          0 |          7 |        166 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\Signup.js                                 | JavaScript  |        171 |          0 |          7 |        178 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\Verification.js                           | JavaScript  |        193 |          0 |          8 |        201 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\ViewAllVerifications.js                   | JavaScript  |         63 |          0 |          3 |         66 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\ViewVerification.js                       | JavaScript  |        128 |          0 |         12 |        140 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\Vote.js                                   | JavaScript  |         35 |          0 |          6 |         41 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\dashboards\EditUser.js                    | JavaScript  |        201 |          0 |         10 |        211 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\dashboards\UserDashBoard.js               | JavaScript  |        101 |          0 |          9 |        110 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\dashboards\helper\userapicalls.js         | JavaScript  |         28 |          0 |          2 |         30 |
+| e:\PROJECT\Project\vs\votingsystem\src\components\dashboards\helper\verificationapicalls.js | JavaScript  |         80 |          1 |          6 |         87 |
+| e:\PROJECT\Project\vs\votingsystem\src\config.js                                            | JavaScript  |          1 |          0 |          3 |          4 |
+| e:\PROJECT\Project\vs\votingsystem\src\contracts\Ballot.sol                                 | Solidity    |         73 |         38 |         18 |        129 |
+| e:\PROJECT\Project\vs\votingsystem\src\firebase\firebase.js                                 | JavaScript  |         16 |          6 |          5 |         27 |
+| e:\PROJECT\Project\vs\votingsystem\src\index.css                                            | CSS         |         12 |          0 |          2 |         14 |
+| e:\PROJECT\Project\vs\votingsystem\src\index.js                                             | JavaScript  |         40 |          0 |          2 |         42 |
+| e:\PROJECT\Project\vs\votingsystem\src\logo.svg                                             | XML         |          1 |          0 |          0 |          1 |
+| e:\PROJECT\Project\vs\votingsystem\src\reportWebVitals.js                                   | JavaScript  |         12 |          0 |          2 |         14 |
+| e:\PROJECT\Project\vs\votingsystem\src\setupTests.js                                        | JavaScript  |          1 |          4 |          1 |          6 |
+| e:\PROJECT\Project\vs\votingsystem\test\sample-test.js                                      | JavaScript  |         13 |          1 |          6 |         20 |
+| e:\PROJECT\Project\vs\votingsystem\yarn-error.log                                           | Log         |      8,152 |          0 |      1,218 |      9,370 |
+| Total                                                                                       |             |      3,704 |         85 |      1,389 |      5,178 |
++---------------------------------------------------------------------------------------------+-------------+------------+------------+------------+------------+

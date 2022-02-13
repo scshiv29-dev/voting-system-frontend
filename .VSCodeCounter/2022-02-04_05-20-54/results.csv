@@ -1,0 +1,50 @@
+"filename", "language", "JavaScript", "Markdown", "JSON", "CSS", "Django txt", "Django HTML", "Solidity", "XML", "Log", "comment", "blank", "total"
+"e:\PROJECT\Project\vs\votingsystem\.VSCodeCounter\2022-02-03_21-50-42\details.md", "Markdown", 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 6, 26
+"e:\PROJECT\Project\vs\votingsystem\.VSCodeCounter\2022-02-03_21-50-42\diff-details.md", "Markdown", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 6, 15
+"e:\PROJECT\Project\vs\votingsystem\.VSCodeCounter\2022-02-03_21-50-42\diff.md", "Markdown", 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 7, 19
+"e:\PROJECT\Project\vs\votingsystem\.VSCodeCounter\2022-02-03_21-50-42\diff.txt", "Django txt", 0, 0, 0, 0, 19, 0, 0, 0, 0, 0, 3, 22
+"e:\PROJECT\Project\vs\votingsystem\.VSCodeCounter\2022-02-03_21-50-42\results.json", "JSON", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"e:\PROJECT\Project\vs\votingsystem\.VSCodeCounter\2022-02-03_21-50-42\results.md", "Markdown", 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 7, 25
+"e:\PROJECT\Project\vs\votingsystem\.VSCodeCounter\2022-02-03_21-50-42\results.txt", "Django txt", 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 3, 39
+"e:\PROJECT\Project\vs\votingsystem\README.md", "Markdown", 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 4, 16
+"e:\PROJECT\Project\vs\votingsystem\config.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4
+"e:\PROJECT\Project\vs\votingsystem\contracts\Ballot.sol", "Solidity", 0, 0, 0, 0, 0, 0, 84, 0, 0, 36, 18, 138
+"e:\PROJECT\Project\vs\votingsystem\hardhat.config.js", "JavaScript", 10, 0, 0, 0, 0, 0, 0, 0, 0, 7, 5, 22
+"e:\PROJECT\Project\vs\votingsystem\package.json", "JSON", 0, 0, 60, 0, 0, 0, 0, 0, 0, 0, 1, 61
+"e:\PROJECT\Project\vs\votingsystem\public\index.html", "Django HTML", 0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 4, 50
+"e:\PROJECT\Project\vs\votingsystem\public\manifest.json", "JSON", 0, 0, 25, 0, 0, 0, 0, 0, 0, 0, 1, 26
+"e:\PROJECT\Project\vs\votingsystem\public\robots.txt", "Django txt", 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"e:\PROJECT\Project\vs\votingsystem\scripts\deploy.js", "JavaScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 25
+"e:\PROJECT\Project\vs\votingsystem\src\App.css", "CSS", 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 6, 39
+"e:\PROJECT\Project\vs\votingsystem\src\App.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 16
+"e:\PROJECT\Project\vs\votingsystem\src\App.test.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"e:\PROJECT\Project\vs\votingsystem\src\Ballot.json", "JSON", 0, 0, 187, 0, 0, 0, 0, 0, 0, 0, 1, 188
+"e:\PROJECT\Project\vs\votingsystem\src\auth\helper\index.js", "JavaScript", 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 65
+"e:\PROJECT\Project\vs\votingsystem\src\backend.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"e:\PROJECT\Project\vs\votingsystem\src\components\AdminVerifies.js", "JavaScript", 51, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 53
+"e:\PROJECT\Project\vs\votingsystem\src\components\Home.js", "JavaScript", 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"e:\PROJECT\Project\vs\votingsystem\src\components\Login.js", "JavaScript", 85, 0, 0, 0, 0, 0, 0, 0, 0, 3, 6, 94
+"e:\PROJECT\Project\vs\votingsystem\src\components\Mediacard.js", "JavaScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 28
+"e:\PROJECT\Project\vs\votingsystem\src\components\Menu.js", "JavaScript", 83, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 88
+"e:\PROJECT\Project\vs\votingsystem\src\components\Navbar.js", "JavaScript", 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 48
+"e:\PROJECT\Project\vs\votingsystem\src\components\Signin.js", "JavaScript", 159, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 166
+"e:\PROJECT\Project\vs\votingsystem\src\components\Signup.js", "JavaScript", 171, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 178
+"e:\PROJECT\Project\vs\votingsystem\src\components\Verification.js", "JavaScript", 193, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 201
+"e:\PROJECT\Project\vs\votingsystem\src\components\ViewAllVerifications.js", "JavaScript", 63, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 66
+"e:\PROJECT\Project\vs\votingsystem\src\components\ViewVerification.js", "JavaScript", 128, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 140
+"e:\PROJECT\Project\vs\votingsystem\src\components\Vote.js", "JavaScript", 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 41
+"e:\PROJECT\Project\vs\votingsystem\src\components\dashboards\EditUser.js", "JavaScript", 201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 211
+"e:\PROJECT\Project\vs\votingsystem\src\components\dashboards\UserDashBoard.js", "JavaScript", 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 110
+"e:\PROJECT\Project\vs\votingsystem\src\components\dashboards\helper\userapicalls.js", "JavaScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 30
+"e:\PROJECT\Project\vs\votingsystem\src\components\dashboards\helper\verificationapicalls.js", "JavaScript", 80, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6, 87
+"e:\PROJECT\Project\vs\votingsystem\src\config.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4
+"e:\PROJECT\Project\vs\votingsystem\src\contracts\Ballot.sol", "Solidity", 0, 0, 0, 0, 0, 0, 73, 0, 0, 38, 18, 129
+"e:\PROJECT\Project\vs\votingsystem\src\firebase\firebase.js", "JavaScript", 16, 0, 0, 0, 0, 0, 0, 0, 0, 6, 5, 27
+"e:\PROJECT\Project\vs\votingsystem\src\index.css", "CSS", 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 2, 14
+"e:\PROJECT\Project\vs\votingsystem\src\index.js", "JavaScript", 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 42
+"e:\PROJECT\Project\vs\votingsystem\src\logo.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"e:\PROJECT\Project\vs\votingsystem\src\reportWebVitals.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 14
+"e:\PROJECT\Project\vs\votingsystem\src\setupTests.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1, 6
+"e:\PROJECT\Project\vs\votingsystem\test\sample-test.js", "JavaScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6, 20
+"e:\PROJECT\Project\vs\votingsystem\yarn-error.log", "Log", 0, 0, 0, 0, 0, 0, 0, 0, 8152, 0, 1218, 9370
+"Total", "-", 1648, 71, 273, 45, 58, 46, 157, 1, 8152, 96, 1445, 11992

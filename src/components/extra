@@ -1,0 +1,8 @@
+       <tr>
+            <td>Approve</td>
+            <td>
+              <button className="btn btn-outline-warning" onClick={approve}>
+                Give Right
+              </button>
+            </td>
+          </tr>

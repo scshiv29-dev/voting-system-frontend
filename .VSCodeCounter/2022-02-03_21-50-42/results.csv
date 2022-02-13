@@ -1,0 +1,13 @@
+"filename", "language", "JSON", "JavaScript", "comment", "blank", "total"
+"e:\PROJECT\Project\vs\votingrework\app.js", "JavaScript", 0, 33, 6, 7, 46
+"e:\PROJECT\Project\vs\votingrework\controllers\auth.js", "JavaScript", 0, 77, 5, 14, 96
+"e:\PROJECT\Project\vs\votingrework\controllers\user.js", "JavaScript", 0, 34, 0, 4, 38
+"e:\PROJECT\Project\vs\votingrework\controllers\verification.js", "JavaScript", 0, 39, 0, 4, 43
+"e:\PROJECT\Project\vs\votingrework\models\user.js", "JavaScript", 0, 65, 0, 6, 71
+"e:\PROJECT\Project\vs\votingrework\models\verification.js", "JavaScript", 0, 33, 0, 1, 34
+"e:\PROJECT\Project\vs\votingrework\package-lock.json", "JSON", 6365, 0, 0, 1, 6366
+"e:\PROJECT\Project\vs\votingrework\package.json", "JSON", 32, 0, 0, 1, 33
+"e:\PROJECT\Project\vs\votingrework\routes\auth.js", "JavaScript", 0, 23, 0, 5, 28
+"e:\PROJECT\Project\vs\votingrework\routes\user.js", "JavaScript", 0, 13, 0, 7, 20
+"e:\PROJECT\Project\vs\votingrework\routes\verification.js", "JavaScript", 0, 33, 0, 6, 39
+"Total", "-", 6397, 350, 11, 56, 6814
